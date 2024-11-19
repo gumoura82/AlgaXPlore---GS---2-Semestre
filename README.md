@@ -68,3 +68,13 @@ Este projeto simula e analisa dados relacionados à geração de energia por alg
    ```
 4. Execute o arquivo
 
+
+## Nomes
+
+Nome: Gustavo Oliveira de Moura RM: 555827
+Nome: Lynn Bueno Rosa RM: 551102
+
+
+
+
+
