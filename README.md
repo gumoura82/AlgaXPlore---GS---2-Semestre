@@ -2,8 +2,6 @@
 
 Este projeto simula e analisa dados relacionados à geração de energia por algas, conteúdo de carbono e níveis de pH da água em um período de tempo. Ele é projetado para fornecer insights sobre energia sustentável e qualidade da água, com visualizações e análises estatísticas.
 
-
-
 ## Funcionalidades
 
 1. **Simulação de Dados**  
@@ -62,3 +60,11 @@ Este projeto simula e analisa dados relacionados à geração de energia por alg
 2. Certifique-se de instalar todas as dependências com:
    ```bash
    pip install pandas matplotlib numpy
+3. Edite o número de dias ou o intervalo de datas conforme necessário:
+   ```
+   num_days = 365  # Simular um ano de dados
+   start_date = '2023-01-01'
+   end_date = '2023-12-31'
+   ```
+4. Execute o arquivo
+
