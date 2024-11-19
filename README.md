@@ -2,7 +2,7 @@
 
 Este projeto simula e analisa dados relacionados à geração de energia por algas, conteúdo de carbono e níveis de pH da água em um período de tempo. Ele é projetado para fornecer insights sobre energia sustentável e qualidade da água, com visualizações e análises estatísticas.
 
----
+
 
 ## Funcionalidades
 
@@ -27,7 +27,6 @@ Este projeto simula e analisa dados relacionados à geração de energia por alg
      - Conteúdo de carbono.
      - Níveis de pH.
 
----
 
 ## Requisitos
 
@@ -36,8 +35,6 @@ Este projeto simula e analisa dados relacionados à geração de energia por alg
   - `pandas`
   - `matplotlib`
   - `numpy`
-
----
 
 ## Estrutura do Código
 
@@ -58,8 +55,6 @@ Este projeto simula e analisa dados relacionados à geração de energia por alg
 5. **Visualização**  
    - `plot_data(data, columns, title, ylabels)`: Gráficos combinados para energia, carbono e pH.  
    - `plot_individual_data(data, column, title, ylabel)`: Gráficos individuais por métrica.
-
----
 
 ## Como Usar
 
