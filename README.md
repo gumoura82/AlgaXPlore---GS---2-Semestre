@@ -1,6 +1,6 @@
-# Simulador de Dados de Energia e Qualidade da Água com Algas
+# Simulador de Dados de Energia e Qualidade da Água com Algas - AlgaXPlore
 
-Este projeto simula e analisa dados relacionados à geração de energia por algas, conteúdo de carbono e níveis de pH da água em um período de tempo. Ele é projetado para fornecer insights sobre energia sustentável e qualidade da água, com visualizações e análises estatísticas.
+As algas desempenham um papel crucial na absorção de CO2 da atmosfera durante a fotossíntese, ajudando a reduzir os gases de efeito estufa e combatendo as mudanças climáticas. Embora não removam diretamente o CO2 da camada de ozônio, elas contribuem para o equilíbrio atmosférico e, no passado, ajudaram na formação da camada de ozônio, que protege a Terra da radiação ultravioleta. O projeto AlgaXPlore busca explorar esse potencial, utilizando algas para gerar energia sustentável e melhorar a qualidade da água, promovendo um futuro mais ecológico. Esta parte do projeto simula e analisa dados relacionados à geração de energia por algas, conteúdo de carbono e níveis de pH da água em um período de tempo. Ele é projetado para fornecer insights sobre energia sustentável e qualidade da água, com visualizações e análises estatísticas.
 
 ## Funcionalidades
 
